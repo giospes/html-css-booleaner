@@ -1,0 +1,41 @@
+/*.text-grey: rgb(126, 126, 126);
+.blue: rgb(32, 169, 229);
+.bg-lightblue: rgb(179, 228, 243);
+.highlight: rgb(255, 255, 2);*/
+
+*{
+    margin: 0;
+    font-size: 24px;
+}
+
+
+header{
+    background: rgb(88, 165, 255) url('../img/pattern.png');
+    height: 120px;
+    background-size: 23%;
+}
+
+header img{
+    width: 300px;
+    padding-top: 40px;
+}
+
+h1{
+    font-size: 2.5em;
+}
+
+.text-grey{
+    color: rgb(164, 173, 170);
+}
+
+.text-blue{
+    color: rgb(32, 169, 229);
+}
+
+.small{
+    font-size: 16px;
+}
+
+.unitalic{
+    font-style: bold;
+}
